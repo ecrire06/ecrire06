@@ -1,16 +1,14 @@
-### Hi there 👋
+# 👋 Hello, Githubers!
 
-<!--
-**ecrire06/ecrire06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finally, you came here! Nice to meet you.  This README shows who I am & what I do.
 
-Here are some ideas to get you started:
+## :octocat: Who I am?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm junha hwang.
+I like to learn new things and make with what I know.
+
+## ❓ What I do?
+
+Interested in python ML.
+Don't have much experience, currently learning! 🔥
+
