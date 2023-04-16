@@ -2,13 +2,15 @@
 
 Finally, you came here! Nice to meet you.  This README shows who I am & what I do.
 
-## :octocat: Who I am?
+# :octocat: Who I am?
 
-I'm junha hwang.
-I like to learn new things and make with what I know.
+My name is Junha. I'm interested in following things:
+- Chemistry 🧪
+- Semiconductor 🖥️
+- Sci-Fiction 👽
+- Pencil ✏️
+- ML 📊
 
-## ❓ What I do?
+I'm majoring 🎓 in Chemistry at [Korea University](https://www.korea.ac.kr/). 
 
-Interested in python ML.
-Don't have much experience, currently learning! 🔥
-
+Contact me any time! My e-mail is [ecrire06@korea.ac.kr](mailto:ecrire06@korea.ac.kr)
