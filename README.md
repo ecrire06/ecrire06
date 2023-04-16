@@ -2,7 +2,7 @@
 
 Finally, you came here! Nice to meet you.  This README shows who I am & what I do.
 
-# :octocat: Who I am?
+## :octocat: Who I am?
 
 My name is Junha. I'm interested in following things:
 - Chemistry 🧪
